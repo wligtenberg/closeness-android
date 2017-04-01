@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="server_url"
+        android:title="@string/server_url"
+        android:summary="@string/server_url_desc" />
+    <EditTextPreference
+        android:key="sensor_name"
+        android:title="@string/sensor_name"
+        android:summary="@string/server_url_desc" />
+    <EditTextPreference
+        android:key="participant_number"
+        android:title="@string/participant_number"
+        android:summary="@string/server_url_desc"
+        android:inputType="number"/>
+    <EditTextPreference
+        android:key="study_number"
+        android:title="@string/study_number"
+        android:summary="@string/server_url_desc"
+        android:inputType="number"/>
+</PreferenceScreen>
