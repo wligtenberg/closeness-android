@@ -1,4 +1,4 @@
-# closeness-android
+# Social Thermoregulation-Android
 Android App registering peripheral temperature of humans via and of locations of nearby BlueMeastro Discs. 
 
 The social thermoregulation app can be used in experience sampling studies to measure individual regulation or co-regulation of temperature in human participants. The app was designed to test Social Thermoregulation Theory ([IJzerman & Hogerzeil, 2017](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844963); [IJzerman et al., 2015](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00464/full)) and is ultimately intended to be applied in the real world in social thermoregulation therapy ([IJzerman, Heine, Nagel, & Pronk, 2017](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2808019)). 
