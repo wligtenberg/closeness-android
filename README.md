@@ -8,3 +8,6 @@ If you want to use this app for your own research (and build on the app for nove
 IJzerman, H., Ligtenberg, W., & Verbeke, W. (2017). The Social Thermoregulation App. Available at Github: https://github.com/wligtenberg/closeness-android. 
 
 Please note that the time line for delivery for this version of the app was tight, hence the rather rough way that the extra functionality was added to the Bluemaestro code.
+
+A server back end was also developed and made available here:
+https://github.com/wligtenberg/closeness-server
